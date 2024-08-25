@@ -23,7 +23,7 @@
     ```bash
     npx blueprint build
     ```
-
+    
 5. **Customize the Deploy Script**:
 
     - Open the `deploy.js` file.
